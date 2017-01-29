@@ -1,0 +1,17 @@
+.column {
+  width: 300px;
+  float: left;
+  padding:30px;
+}
+
+.before {
+background-color: yellow;
+}
+
+.during {
+ background-color: pink;
+}
+
+.after {
+  background-color: skyblue;
+}
